@@ -17,6 +17,8 @@
 		4C1608832AD6E44A004B3B81 /* classmate_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C1608822AD6E44A004B3B81 /* classmate_appTests.swift */; };
 		4C16088D2AD6E44A004B3B81 /* classmate_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C16088C2AD6E44A004B3B81 /* classmate_appUITests.swift */; };
 		4C16088F2AD6E44A004B3B81 /* classmate_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C16088E2AD6E44A004B3B81 /* classmate_appUITestsLaunchTests.swift */; };
+		4C16089C2AD6E4B3004B3B81 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C16089B2AD6E4B3004B3B81 /* Student.swift */; };
+		4C47FA382AD98F2F00A18F4C /* ViewControllerInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C47FA372AD98F2F00A18F4C /* ViewControllerInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		4C1608882AD6E44A004B3B81 /* classmate appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "classmate appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C16088C2AD6E44A004B3B81 /* classmate_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classmate_appUITests.swift; sourceTree = "<group>"; };
 		4C16088E2AD6E44A004B3B81 /* classmate_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classmate_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4C16089B2AD6E4B3004B3B81 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		4C47FA372AD98F2F00A18F4C /* ViewControllerInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				4C16086A2AD6E449004B3B81 /* SceneDelegate.swift */,
 				4C16086C2AD6E449004B3B81 /* ViewController.swift */,
 				4C16086E2AD6E449004B3B81 /* Main.storyboard */,
+				4C47FA372AD98F2F00A18F4C /* ViewControllerInfo.swift */,
+				4C16089B2AD6E4B3004B3B81 /* Student.swift */,
 				4C1608742AD6E44A004B3B81 /* Assets.xcassets */,
 				4C1608762AD6E44A004B3B81 /* LaunchScreen.storyboard */,
 				4C1608792AD6E44A004B3B81 /* Info.plist */,
@@ -264,6 +270,8 @@
 				4C16086D2AD6E449004B3B81 /* ViewController.swift in Sources */,
 				4C1608692AD6E449004B3B81 /* AppDelegate.swift in Sources */,
 				4C16086B2AD6E449004B3B81 /* SceneDelegate.swift in Sources */,
+				4C16089C2AD6E4B3004B3B81 /* Student.swift in Sources */,
+				4C47FA382AD98F2F00A18F4C /* ViewControllerInfo.swift in Sources */,
 				4C1608732AD6E449004B3B81 /* classmate_app.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
